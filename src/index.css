@@ -1,0 +1,19 @@
+
+@import "tailwindcss";
+
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.login-page {
+  height: 100vh;              /* Full viewport height */
+  display: flex;
+  justify-content: center;    /* Center horizontally */
+  align-items: center;        /* Center vertically */
+  background-color: #161B40;  /* Background color fills whole viewport */
+  margin: 0;
+  padding: 0;
+}
+
